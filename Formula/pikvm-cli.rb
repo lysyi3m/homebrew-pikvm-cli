@@ -3,9 +3,9 @@ class PikvmCli < Formula
 
   desc "A command-line interface (CLI) for controlling PIKVM devices."
   homepage "https://github.com/lysyi3m/pikvm-cli"
-  url "https://files.pythonhosted.org/packages/4a/6f/de7fc7e096fb0a62a7211c0cc60b8afc9d0f343618b25776ffd3f0276397/pikvm-cli-1.0.2.tar.gz"
-  version "1.0.1"
-  sha256 "bc952dadb4f11f9a89d53b4459fbcce822269ebecc23fb2fff02d751786d2120"
+  url "https://files.pythonhosted.org/packages/4f/8d/bdb1a1441b8787f0ec7cd075d405683ef350149fbdf0c834f97dc87cdd51/pikvm-cli-1.0.3.tar.gz"
+  version "1.0.3"
+  sha256 "c2770cd50339f93c09325a7b220903e5709bcc32f0d271c8574c6ad76700678d"
 
   depends_on "python@3.11"
 
